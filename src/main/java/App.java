@@ -11,4 +11,7 @@ public class App
     public static void HelloSomeone(String someone){
         System.out.println(someone);
     }
+    public static void test1(){
+        System.out.println("test3");
+    }
 }
